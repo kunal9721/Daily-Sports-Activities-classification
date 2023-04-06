@@ -1,5 +1,7 @@
 # Daily-Sports-Activities-classification
 
+Data Set can be found at :  https://archive.ics.uci.edu/ml/datasets/Daily+and+Sports+Activities
+
 Daily sports activities (UCI) consist of 19 exercises conducted for 5 minutes by eight subjects (four females and four males between the ages of 20 and 30). The total signal duration for each subject's activity is 5 minutes.
 The subjects were invited to perform the exercises in their own unique style and were not restricted in any way. As a result, the speeds and amplitudes of various activities differ amongst subjects. This is a multi-classification problem where we are classifying the person performing which of the following activities.
 The 19 activities are:
